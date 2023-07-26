@@ -1,0 +1,11 @@
+Model Information:
+* title:	Elseinct Crystal Chamber
+* source:	https://sketchfab.com/3d-models/elseinct-crystal-chamber-12e4104751c3469083d5fcd25e03f01a
+* author:	dudecon (https://sketchfab.com/dudecon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Elseinct Crystal Chamber" (https://sketchfab.com/3d-models/elseinct-crystal-chamber-12e4104751c3469083d5fcd25e03f01a) by dudecon (https://sketchfab.com/dudecon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
