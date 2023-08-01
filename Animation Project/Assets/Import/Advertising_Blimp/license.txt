@@ -1,0 +1,11 @@
+Model Information:
+* title:	Advertising Blimp
+* source:	https://sketchfab.com/3d-models/advertising-blimp-c2a6547d9ffe488fa26794da38fde0dc
+* author:	strawbie133 (https://sketchfab.com/strawbie133)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Advertising Blimp" (https://sketchfab.com/3d-models/advertising-blimp-c2a6547d9ffe488fa26794da38fde0dc) by strawbie133 (https://sketchfab.com/strawbie133) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
